@@ -1,0 +1,14 @@
+export APP_DOMAIN=localhost:3001
+
+export AMZN_ASOC_KEY=
+export AMZN_ASOC_SECRET=
+export FOG_DIRECTORY=
+export ASSET_HOST=
+export FROALA_EDITOR_KEY=
+
+export DEV_DATABASE=prometheus_dev
+export DEV_DATABASE_USERNAME=postgres
+export DEV_DATABASE_PASSWORD=gkgk
+
+
+echo "ENV Vars set"
