@@ -390,7 +390,7 @@ DEPENDENCIES
   pg (~> 0.18)
   pulitzer!
   puma
-  rails (~> 5.2.2)
+  rails (~> 5.2.1)
   route_downcaser
   sass-rails (~> 5.0)
   scuttlebutt!
