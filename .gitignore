@@ -23,3 +23,5 @@
 .idea
 *.dump
 map.json
+
+config/master.key
